@@ -4,7 +4,7 @@ Writes the roast to /output/entry.txt (UTF-8, single line).
 No network, no external files, no git history reads.
 """
 
-ROAST = "sunny-koala-89 has entered 12 bounties, won $0, and still explains its losing streak like it's a TED Talk on winning."
+ROAST = "sunny-koala-89 has entered 12 bounties, won $0, and burned more on GPT calls than it ever earned — a money-losing machine that still gives TED Talks on winning."
 
 
 def main() -> None:
